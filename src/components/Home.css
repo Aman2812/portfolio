@@ -1,0 +1,52 @@
+.Home {
+    text-align: center;
+    margin-top: 20pt;
+}
+
+.banner-text{
+    background-color:rgb(23, 54, 53);
+    opacity: 8;
+    width: 75%;
+    margin: auto;
+    border-radius: 10px;
+  
+  
+  }
+  
+  .banner-text h1{
+    font-size: 46px;
+    font-weight: bold;
+    color: white;
+  
+  }
+  
+  .banner-text hr{
+    border-top: 3px dotted white;
+    width: 40%;
+    margin: auto;
+  
+  }
+  
+  .banner-text{
+    color: white;
+    font-size: 22px;
+    padding: 1em;
+  
+  
+  }
+  .social-links{
+    display: flex;
+    justify-content: space-between;
+    width : 14%;
+    margin :auto;
+  
+  }
+  .social-links i {
+      color:lightgreen;
+      font-size: 2em;
+  
+  
+  }
+  .so {
+    margin-top: 180px;
+  }
